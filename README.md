@@ -10,4 +10,4 @@
 
 3. Now, you are on the youtube search! Search any video you want
 
-<img width="4080" height="3060" alt="1000003070" src="https://github.com/user-attachments/assets/1dbc0ce0-7b30-4a70-a566-3a1fab7a1072" />
+<img width="4080" height="3060" alt="1000003073" src="https://github.com/user-attachments/assets/1f9537c3-9fe4-423d-8450-605b714a252b" />
