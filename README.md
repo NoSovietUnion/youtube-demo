@@ -14,4 +14,4 @@
 
 4. Wait, now you have the video and click on the video
 
-<img width="4080" height="3060" alt="1000003073" src="https://github.com/user-attachments/assets/e5ffb98d-168a-44cf-aedb-9288e34e4c6e" />
+<img width="4080" height="3060" alt="1000003067" src="https://github.com/user-attachments/assets/15f7858a-fc50-4bad-b180-93ab4dd1bf0d" />
