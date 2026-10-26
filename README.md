@@ -7,3 +7,7 @@
 2. Then, click insert and then click videos or audio!
 
 <img width="4080" height="3060" alt="1000003069" src="https://github.com/user-attachments/assets/644a93f4-82e8-4c17-823b-634cdd1f347a" />
+
+3. Now, you are on the youtube search! Search any video you want
+
+<img width="4080" height="3060" alt="1000003070" src="https://github.com/user-attachments/assets/1dbc0ce0-7b30-4a70-a566-3a1fab7a1072" />
